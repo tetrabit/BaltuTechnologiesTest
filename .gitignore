@@ -58,3 +58,7 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+BaltuTechnologiesTest/Library/*
+BaltuTechnologiesTest/Logs/*
+BaltuTechnologiesTest/Temp/*
+BaltuTechnologiesTest/UserSettings/*
