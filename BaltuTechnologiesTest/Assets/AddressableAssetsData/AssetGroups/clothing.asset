@@ -1,0 +1,199 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: clothing
+  m_EditorClassIdentifier: 
+  m_GroupName: clothing
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 6090d28fd7d2b7c4897947ff50d92bd4
+  m_SerializeEntries:
+  - m_GUID: 677ba6c578cf90441a3d6637fae37fbb
+    m_Address: Shoes Sneakers
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - clothing
+    - shoes
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 215c02531c539774a9e7126506c13428
+    m_Address: Shoes Dress
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - shoes
+    - clothing
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 40a879dd1db7de142b1dfda8373aa37d
+    m_Address: Shoes Dad
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - shoes
+    - clothing
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 91c33ed3ecffec748aa41a52b75675d7
+    m_Address: Shoes Boot
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - shoes
+    - clothing
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9f5bbffcc1864c5429c34d4e29bdfa51
+    m_Address: Shoes Boat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - shoes
+    - clothing
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c9841c275cd99048976a007512e6ab6
+    m_Address: Shirt Red Polo
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - shirt
+    - clothing
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 84ee44ddf9aa0e442a41fd1ca8a2b1b8
+    m_Address: Shirt Purple Tshirt
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - shirt
+    - clothing
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6f63d1f15b185dc47b83e25173a82cdf
+    m_Address: Shirt Checkered Flannel
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - shirt
+    - clothing
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cd3444f7e2a36b249a1c85b302635a1c
+    m_Address: Shirt Blue Plaid
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - shirt
+    - clothing
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1f3e5015647740d4696270d9550e897f
+    m_Address: Shirt Blue Button Down
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - shirt
+    - clothing
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3eb7df31be219294599e6eda50b3e4f0
+    m_Address: Pants Slacks
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - pants
+    - clothing
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d84bff7b4dbd8f74b9df6fb369b0f0b0
+    m_Address: Pants Khakis
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - pants
+    - clothing
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb79432ef18043548b8e933a7af17223
+    m_Address: Pants Joggers
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - pants
+    - clothing
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c555b1d8a731bbe44bda1a2ee496f1ab
+    m_Address: Pants Jeans
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - pants
+    - clothing
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8eed5889250a0ff46ab63219e9a6ee7d
+    m_Address: Pants Cargo
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - pants
+    - clothing
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7c11b7830a67a1845adf8562e10e8159
+    m_Address: Jacket Puffer
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - jacket
+    - clothing
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 433dac937e2d22047b4e34883e0c7d5e
+    m_Address: Jacket Plain
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - jacket
+    - clothing
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 255af8883ab619240baac1f3d4b4f655
+    m_Address: Jacket Plaid
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - jacket
+    - clothing
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6d64b6620745ff94da904507cf9334d0
+    m_Address: Jacket Hoodie
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - jacket
+    - clothing
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 555c6999296147e4f967632195cbdb45
+    m_Address: Jacket Black Bomber
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - jacket
+    - clothing
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6810d9b3b4eccf04a8e538728093ecc7
+    m_Address: Hat Tommy Hilfinger
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - hat
+    - clothing
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7ab3dd6f7315548449b8449a80160566
+    m_Address: Hat Nike
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - hat
+    - clothing
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1dcd17a7055d7f744b07a5a8756b946d
+    m_Address: Hat Ghost
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - hat
+    - clothing
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1fdefbb7ed137c04db88dd83cb98a45d
+    m_Address: Hat America
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - hat
+    - clothing
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8bb079ca5b7949242911be5c26de5582
+    m_Address: Hat Adidas
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - hat
+    - clothing
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: b6650e52048e90846ae98bbcde0e53dd, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 2435e136eb62be04e975927cc529a819, type: 2}
