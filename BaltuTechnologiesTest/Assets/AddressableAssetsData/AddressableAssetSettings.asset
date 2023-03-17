@@ -15,9 +15,9 @@ MonoBehaviour:
   m_DefaultGroup: 930ebee1080540c4d9bc53d3d7c64c3a
   m_currentHash:
     serializedVersion: 2
-    Hash: 8a1c3961a6c915d4ca7a54bef6687965
+    Hash: 00000000000000000000000000000000
   m_OptimizeCatalogSize: 0
-  m_BuildRemoteCatalog: 0
+  m_BuildRemoteCatalog: 1
   m_BundleLocalCatalog: 0
   m_CatalogRequestsTimeout: 0
   m_DisableCatalogUpdateOnStart: 0
@@ -35,9 +35,9 @@ MonoBehaviour:
   m_CheckForContentUpdateRestrictionsOption: 0
   m_MonoScriptBundleCustomNaming: 
   m_RemoteCatalogBuildPath:
-    m_Id: 
+    m_Id: 62b29f9bff0267a49a312f8f19ca8d16
   m_RemoteCatalogLoadPath:
-    m_Id: 
+    m_Id: 6ef2e1ca6a7e7294ea25c5b979cd359d
   m_ContentStateBuildPathProfileVariableName: <default settings path>
   m_CustomContentStateBuildPath: 
   m_ContentStateBuildPath: 
@@ -61,13 +61,13 @@ MonoBehaviour:
       - m_Id: af88db74a2a6d0e4da7496723a37bfad
         m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
       - m_Id: 85b58a0fd192a944b892c7bc0570fcc4
-        m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
+        m_Value: ServerData/[BuildTarget]
       - m_Id: 1f99299fe086a6544bb00a01647347c5
-        m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
+        m_Value: ServerData/[BuildTarget]
       - m_Id: 62b29f9bff0267a49a312f8f19ca8d16
-        m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
+        m_Value: ServerData/[BuildTarget]
       - m_Id: 6ef2e1ca6a7e7294ea25c5b979cd359d
-        m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
+        m_Value: https://learnings3nullvoid.s3.us-east-2.amazonaws.com/[BuildTarget]
     m_ProfileEntryNames:
     - m_Id: af88db74a2a6d0e4da7496723a37bfad
       m_Name: BuildTarget
@@ -112,5 +112,6 @@ MonoBehaviour:
     m_HostingServiceInfos: []
     m_Settings: {fileID: 11400000}
     m_NextInstanceId: 0
-    m_RegisteredServiceTypeRefs: []
+    m_RegisteredServiceTypeRefs:
+    - UnityEditor.AddressableAssets.HostingServices.HttpHostingService, Unity.Addressables.Editor
     m_PingTimeoutInMilliseconds: 5000
